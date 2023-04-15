@@ -1,16 +1,16 @@
 // прототипне наслідування, класи, екземпляри, інтерфейс
 
-const objA = {
-    a: 8
-}
+// const objA = {
+//     a: 8
+// }
 
-const objB = Object.create(objA)
+// const objB = Object.create(objA)
 
-objB.b = 9
+// objB.b = 9
 
-const objC = Object.create(objB)
+// const objC = Object.create(objB)
 
-objC.c = 10
+// objC.c = 10
 
 // console.log(objC.b)
 
